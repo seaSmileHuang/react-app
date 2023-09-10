@@ -1,3 +1,8 @@
+项目是一个基于 create-react-app 搭建的 react 项目模板，集成了 TypeScript、ESLint、Prettier、Husky、lint-staged 等等
+运行环境： VSCode、Node16+、
+VSCode 插件：Prettier - Code formatter
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
