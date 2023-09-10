@@ -2,8 +2,5 @@
     "extends": [
         "react-app"
     ],
-    "rules": {
-        "semi":"error",
-        "quotes": ["error", "double"]
-    }
+    "plugins": ["prettier"]
 }
